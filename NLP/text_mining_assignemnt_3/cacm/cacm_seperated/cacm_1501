@@ -1,0 +1,1 @@
+eigenvectors of a n x n matrix.wit has been known that the eigenvalues of acertain n x n matrix can be obtained by use of two smaller matrices of order n which can be easilyconstructed.  an algorithm is given to obtain the eigenvectors of the n x n matrix by use ofthe eigenvectors of the smaller matrices.cacm december, charmonman, s.ca jb february ,   : pm

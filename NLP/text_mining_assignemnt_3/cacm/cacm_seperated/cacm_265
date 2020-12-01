@@ -1,0 +1,1 @@
+low level language subroutines for use within fortran.wthis paper describes some subroutines, codedin symbolic languages and for use within fortran coded programs, to deal with "special arithmetic" (e.g.multi-precision arithmetic), symbol manipulation, bit manipulation and expanded character set input-output, and visual display.cacm november, barnett, m. p.ca jb march ,   : pm

@@ -1,0 +1,1 @@
+error-free methods for statistical computations.wneely has discussed computational error generatedby some algorithms used to compute various statistics.  in the present paper methods are describedwhich are error-free, simple in concept, and usually less costly in machine time than those mentioned by neely.cacm march, rodden, b. e.ca jb february ,   : pm

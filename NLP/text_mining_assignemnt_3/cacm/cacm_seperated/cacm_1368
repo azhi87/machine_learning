@@ -1,0 +1,1 @@
+systematic generation of hamiltonian circuits.wfor a combinatorial matrix which may specifyboth directed and nondirected arcs, the paper describes a computer program which generates systematicallyand exhaustively all the hamiltonian circuits. specific application is made to the "traveling salesman" problem.cacm september, roberts, s. m.ca jb march ,   : pm

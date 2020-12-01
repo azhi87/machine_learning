@@ -1,0 +1,1 @@
+a note on storage of strings.wa method for storing strings is described whichuses blocks of indefinite size, and is therefore completely dynamic.  its relation to similar schemes is discussed.cacm august, berztiss, a. t.ca jb march ,   : pm
